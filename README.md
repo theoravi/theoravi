@@ -4,7 +4,10 @@
 - 🔎 Passionate about learning and researching **Python** and **web automation** using **Selenium**
 - 🇧🇷 Born and living in **Brazil**
 
-### Linguagens que utilizo ou já utilizei em projetos:
+---
+
+### Languages I use or have used in projects:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,8 +32,8 @@
 </picture>
 
 ---
-##
- 
+
+### 🤝 Let’s Connect
 <div>
   <a href="www.linkedin.com/in/theo-ravi-cabral-1b44131ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:theoravic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
